@@ -49,12 +49,12 @@ const AppNav = (props) => {
 	const homeMenu = [
 		{
 			menuName: "LinkedIn",
-			menuLink: "https://www.linkedin.com/in/nat-corpuz/",
+			menuLink: "https://www.linkedin.com/in/nathanelcorpuz/",
 			target: "_blank",
 		},
 		{
 			menuName: "Twitter",
-			menuLink: "https://twitter.com/corpuz_nat",
+			menuLink: "https://twitter.com/nathanelcorpuz",
 			target: "_blank",
 		},
 		{

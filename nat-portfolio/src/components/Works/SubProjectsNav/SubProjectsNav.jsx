@@ -13,6 +13,11 @@ const SubProjectsNav = () => {
 			target: "_blank",
 		},
 		{
+			menuName: "Rock-paper-scissors",
+			menuLink: "https://natdlc.github.io/rock-paper-scissors/",
+			target: "_blank",
+		},
+		{
 			menuName: "Tic-tac-toe",
 			menuLink: "https://natdlc.github.io/tictactoe/",
 			target: "_blank",

@@ -1,7 +1,7 @@
 .home-headline-name {
   font-weight: 100;
   letter-spacing: 5px;
-  opacity: 0.3;
+  opacity: 0.7;
 }
 
 .home-headline-title {
@@ -12,7 +12,7 @@
 .home-headline-description {
   font-weight: 100;
   letter-spacing: 1.5px;
-  opacity: 0.3;
+  opacity: 0.7;
   max-width: 300px;
   line-height: 1.5
 }

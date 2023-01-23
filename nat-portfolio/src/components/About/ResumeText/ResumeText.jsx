@@ -12,7 +12,7 @@ const ResumeText = () => {
 					className={classes["resume-link"]}
 					rel="noreferrer"
 					target="_blank"
-					href="https://drive.google.com/file/d/15qfac6RL8nSK7NhgL_0nxLyO1R7NZR5P/view"
+					href="https://docs.google.com/document/d/1WHHtXgm2mZgiRT7STz-rQ0gDfFe-_F1iWIc_GvNYZ_Y/view"
 				>
 					My Resume
 				</a>

@@ -3,18 +3,8 @@ import Nav from "../../../UI/Nav/Nav";
 const MainProjectsNav = () => {
 	const navMenus = [
 		{
-			menuName: "Labloco",
-			menuLink: "https://labloco.vercel.app",
-			target: "_blank",
-		},
-		{
-			menuName: "Planner",
-			menuLink: "https://natdlc.github.io/todo",
-			target: "_blank",
-		},
-		{
-			menuName: "RPS",
-			menuLink: "https://natdlc.github.io/rock-paper-scissors/",
+			menuName: "BuildMyHabit",
+			menuLink: "https://staging-buildmyhabit.vercel.app",
 			target: "_blank",
 		},
 	];
