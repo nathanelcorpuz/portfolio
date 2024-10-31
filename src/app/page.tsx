@@ -115,9 +115,9 @@ export default function Home() {
 				</div>
 				<div>
 					<p className="text-2xl font-[family-name:var(--font-geist-mono)]">
-						Contact Me
+						Let's Chat
 					</p>
-					<p>I'd love to chat! You can reach me via nathanelcorpuz@gmail.com</p>
+					<p>You can reach me via nathanelcorpuz@gmail.com</p>
 				</div>
 			</main>
 			<footer className="">
