@@ -178,9 +178,12 @@ export default function Home() {
 					</div>
 				</div>
 			</main>
-			<footer className="flex justify-between items-center pt-16 pb-36" id="contact">
+			<footer
+				className="flex justify-between items-center pt-16 pb-36"
+				id="contact"
+			>
 				<p className="text-6xl font-[family-name:var(--font-geist-mono)] text-gray-400">
-					Let's Chat
+					Let{"'"}s Chat
 				</p>
 				<p className="px-2 py-1 text-amber-100 bg-amber-800 rounded-lg">
 					nathanelcorpuz@gmail.com
