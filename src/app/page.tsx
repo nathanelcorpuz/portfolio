@@ -81,7 +81,7 @@ export default function Home() {
 					id="#"
 				>
 					<p className="text-2xl sm:text-3xl md:text-6xl font-[family-name:var(--font-geist-mono)]">
-						Hi, I{"'"}m Nate.
+						Hi, I{"'"}m John.
 					</p>
 					<div className="text-md nd:text-xl flex gap-1 sm:gap-2 items-center">
 						<p>A</p>

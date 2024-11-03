@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-	title: "Nate - Full Stack Web Developer",
+	title: "Nathanel John - Full Stack Web Developer",
 };
 
 export default function RootLayout({
