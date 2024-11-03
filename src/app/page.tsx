@@ -189,6 +189,43 @@ export default function Home() {
 							</div>
 						</div>
 					</div>
+					<div className="flex flex-col gap-6 border p-4 sm:p-8 rounded-md border-black">
+						<a
+							href="https://nleagueoflegends.vercel.app"
+							target="_blank"
+							className="text-xl underline transition-all hover:text-yellow-600 w-max"
+						>
+							Video Game Landing Page
+						</a>
+						<p className="font-light">
+							A web page to showcase my skills in implementing UI.
+						</p>
+						<div className="flex flex-col lg:flex-row justify-between gap-8">
+							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
+								<p className="text-gray-400 text-xs">Key Features</p>
+								<ul className="flex flex-col gap-2 font-[family-name:var(--font-geist-mono)] text-sm">
+									<li>Well-designed UI</li>
+									<li>Advanced components</li>
+									<li>Comprehensive GitHub ReadMe</li>
+								</ul>
+							</div>
+							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
+								<p className="text-gray-400 text-xs">Libraries</p>
+								<ul className="flex flex-col gap-2 font-[family-name:var(--font-geist-mono)] text-sm">
+									<li>TailwindCSS</li>
+									<li>TypeScript</li>
+								</ul>
+							</div>
+							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
+								<p className="text-gray-400 text-xs">Architecture</p>
+								<ul className="flex flex-col gap-2 font-[family-name:var(--font-geist-mono)] text-sm">
+									<li>Next.js</li>
+									<li>Vercel</li>
+									<li>GitHub</li>
+								</ul>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div className="flex flex-col gap-6 pt-24" id="about">
 					<p className="text-2xl font-[family-name:var(--font-geist-mono)] text-gray-400">
