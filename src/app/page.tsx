@@ -12,7 +12,7 @@ export default function Home() {
 					className="cursor-pointer transition-all hover:text-amber-800 block"
 					href="#"
 				>
-					John Corpuz
+					Nate Corpuz
 				</a>
 				<div className="lg:hidden pr-2">
 					<p onClick={() => setIsMenuOpen(true)}>Menu</p>
