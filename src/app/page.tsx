@@ -107,7 +107,7 @@ export default function Home() {
 							A web app designed to{" "}
 							<span className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100">
 								augment
-							</span>
+							</span>{" "}
 							my personal finance management.
 						</p>
 						<div className="flex flex-col lg:flex-row justify-between gap-8">
@@ -237,13 +237,15 @@ export default function Home() {
 						About Me
 					</p>
 					<div className="flex flex-col gap-4 font-light">
+						<p>As a kid, I was always fascinated with technology.</p>
 						<p>
-							Ever since I was a kid, I have always been fascinated by all
-							things technology.
+							Whenever someone asked me "What do you want to be when you grow
+							up?", I always answered with "An astronaut".
 						</p>
 						<p>
-							From this fascination arose my love for coding, but this was a
-							love destined to be found much later in my life.
+							All that passion, curiosity, vigor, and excitement for being an
+							astronaut all went to coding, but this was a love destined to
+							materialize later in life.
 						</p>
 						<p>
 							After a decade of customer service, I have finally made the leap
@@ -251,7 +253,7 @@ export default function Home() {
 						</p>
 						<p>
 							I have spent the past 5 years honing this craft and have dedicated
-							myself to be a daily day-1 learner of software development.
+							myself to be an eternal student of software development.
 						</p>
 						<p>
 							If you are interested in working with someone who is as dedicated
