@@ -104,7 +104,11 @@ export default function Home() {
 							Orium
 						</a>
 						<p className="font-light">
-							An MVP web app that forecasts and organizes personal finances.
+							A web app designed to{" "}
+							<span className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100">
+								augment
+							</span>
+							my personal finance management.
 						</p>
 						<div className="flex flex-col lg:flex-row justify-between gap-8">
 							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
