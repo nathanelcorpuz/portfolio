@@ -239,8 +239,8 @@ export default function Home() {
 					<div className="flex flex-col gap-4 font-light">
 						<p>As a kid, I was always fascinated with technology.</p>
 						<p>
-							Whenever someone asked me "What do you want to be when you grow
-							up?", I always answered with "An astronaut".
+							Whenever someone asked me &quot;What do you want to be when you
+							grow up?&quot;, I always answered with &quot;An astronaut&quot;.
 						</p>
 						<p>
 							All that passion, curiosity, vigor, and excitement for being an
