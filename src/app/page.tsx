@@ -156,7 +156,8 @@ export default function Home() {
 							Mealer
 						</a>
 						<p className="font-light">
-							A web app that organizes recipes and daily meals.
+							A web app that organizes recipes and daily meals to practice my
+							Next.js knowledge.
 						</p>
 						<div className="flex flex-col lg:flex-row justify-between gap-8">
 							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
@@ -237,8 +238,8 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							Ever since I was a kid, I've always been fascinated by all things
-							technology.
+							Ever since I was a kid, I have always been fascinated by all
+							things technology.
 						</p>
 						<p>
 							From this fascination arose my love for coding, but this was a
@@ -253,8 +254,8 @@ export default function Home() {
 							myself to be a daily day-1 learner of software development.
 						</p>
 						<p>
-							If you're interested in working with someone who is as dedicated
-							and passionate as me in coding, then you're at the right place.
+							If you are interested in working with someone who is as dedicated
+							and passionate as me in coding, then you are at the right place.
 						</p>
 						<p>Send me a message so we can get the ball rolling {"=)"}</p>
 					</div>
