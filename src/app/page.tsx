@@ -86,9 +86,9 @@ export default function Home() {
 					<div className="text-md nd:text-xl flex gap-1 sm:gap-2 items-center">
 						<p>A</p>
 						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100">
-							full-stack
+							fervent disciple
 						</p>
-						<p>web developer</p>
+						<p>of web development</p>
 					</div>
 				</div>
 				<div className="flex flex-col gap-6 pt-24" id="projects">
@@ -233,19 +233,26 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							Raised in a technological home by a computer engineer father with
-							an internet café business, my passion for software naturally
-							arose.
+							Ever since I was a kid, I've always been fascinated by all things
+							technology.
 						</p>
 						<p>
-							After working in customer service and virtual assistance for 11
-							years while coding on the side for 5 years, I am finally turning
-							my passion for coding into a career as a full-stack web developer.
+							From this fascination arose my love for coding, but this was a
+							love destined to be found much later in my life.
 						</p>
 						<p>
-							Outside coding, I love going to the mall, morning walks, video
-							games, guitar, and drums.
+							After a decade of customer service, I have finally made the leap
+							to web development.
 						</p>
+						<p>
+							I have spent the past 5 years honing this craft and have dedicated
+							myself to be a daily day-1 learner of software development.
+						</p>
+						<p>
+							If you're interested in working with someone who is as dedicated
+							and passionate as me in coding, then you're at the right place.
+						</p>
+						<p>Send me a message so we can get the ball rolling {"=)"}</p>
 					</div>
 					<div className="flex flex-col gap-4">
 						<p className="text-2xl font-[family-name:var(--font-geist-mono)] text-gray-400">
