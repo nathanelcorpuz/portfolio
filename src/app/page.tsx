@@ -85,7 +85,7 @@ export default function Home() {
 					</p>
 					<div className="text-md nd:text-xl flex gap-1 sm:gap-2 items-center">
 						<p>A</p>
-						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100">
+						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100 font-[family-name:var(--font-geist-mono)]">
 							fervent disciple
 						</p>
 						<p>of web development</p>
@@ -104,11 +104,7 @@ export default function Home() {
 							Orium
 						</a>
 						<p className="font-light">
-							A web app designed to{" "}
-							<span className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100">
-								augment
-							</span>{" "}
-							my personal finance management.
+							A web app designed to augment my personal finance.
 						</p>
 						<div className="flex flex-col lg:flex-row justify-between gap-8">
 							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
