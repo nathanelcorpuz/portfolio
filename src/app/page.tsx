@@ -126,16 +126,19 @@ export default function Home() {
 							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
 								<p className="text-gray-400 text-xs">Primary Tools</p>
 								<ul className="flex flex-col gap-2 font-[family-name:var(--font-geist-mono)] text-sm">
+									<li>Zendesk</li>
 									<li>HubSpot</li>
 									<li>Shopify</li>
 									<li>Google Suite</li>
+									<li>Zoho Mail</li>
+									<li>PayPal Business</li>
+									<li>Figma</li>
 									<li>Humanity {"(TCP Software)"}</li>
 								</ul>
 							</div>
 							<div className="flex lg:gap-4 lg:w-[300px] w-full flex-col lg:flex-row gap-4">
 								<p className="text-gray-400 text-xs">Secondary Tools</p>
 								<ul className="flex flex-col gap-2 font-[family-name:var(--font-geist-mono)] text-sm">
-									<li>Figma</li>
 									<li>Framer</li>
 									<li>Premiere Pro</li>
 									<li>Canva</li>
