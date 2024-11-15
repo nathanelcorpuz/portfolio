@@ -198,30 +198,12 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							Having been raised by a computer engineer father with unmatched
-							principles, I developed a relentless pursuit for selflessness and
-							fascination for technology at a young age.
+							A native English speaker from the Philippines, skilled in Virtual
+							Assistance with 11 years experience. Excelling mainly in customer
+							support, admin assistance, and operations tasks. Worked with
+							various businesses ranging from startups to top brands such as
+							Google and Spotify. Committed to self-improvement.
 						</p>
-						<p>
-							My passion for being an instrument of help to others and anything
-							relating to technology all went to working in the tech sector as
-							an email customer support.
-						</p>
-						<p>
-							I channel my passion for helping people through email customer
-							support and virtual assistance.
-						</p>
-						<p>
-							These fields give me the opportuntiy to be an instrument of help
-							to others that results in a perpetual cycle of self-validation and
-							self-improvement.
-						</p>
-						<p>
-							If you are interested in working with someone who is as dedicated
-							and passionate as me in helping others, then you are at the right
-							place.
-						</p>
-						<p>Send me a message so we can get the ball rolling! {"=)"}</p>
 					</div>
 				</div>
 			</main>
