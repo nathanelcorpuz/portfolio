@@ -84,11 +84,11 @@ export default function Home() {
 						Hi, I{"'"}m Nate.
 					</p>
 					<div className="text-md nd:text-xl flex gap-1 sm:gap-2 items-center">
-						<p>A</p>
+						<p>I help business owners</p>
 						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100 font-[family-name:var(--font-geist-mono)]">
-							fervent disciple
+							thrive
 						</p>
-						<p>of helping people</p>
+						<p>.</p>
 					</div>
 				</div>
 				<div className="flex flex-col gap-6 pt-24" id="work">
