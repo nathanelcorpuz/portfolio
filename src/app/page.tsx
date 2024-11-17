@@ -197,11 +197,12 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							A native English speaker from the Philippines, skilled in Virtual
-							Assistance with 11 years experience. Excelling mainly in customer
-							support, admin assistance, and operations tasks. Worked with
-							various businesses ranging from startups to top brands such as
-							Google and Spotify. Committed to self-improvement.
+							Versatile Virtual Assistant with 11 years of experience in
+							e-commerce, software, and customer service. Proficient in tools
+							like Shopify, HubSpot, and Salesforce, with expertise in virtual
+							assistance, customer support, and process improvement. Skilled at
+							managing operations, enhancing workflows, and delivering
+							exceptional support in dynamic environments.
 						</p>
 					</div>
 				</div>
