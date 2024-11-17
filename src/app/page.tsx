@@ -88,7 +88,6 @@ export default function Home() {
 						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100 font-[family-name:var(--font-geist-mono)]">
 							thrive
 						</p>
-						<p>.</p>
 					</div>
 				</div>
 				<div className="flex flex-col gap-6 pt-24" id="work">
