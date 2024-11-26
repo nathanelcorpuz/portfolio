@@ -84,10 +84,7 @@ export default function Home() {
 						Hi, I{"'"}m Nate.
 					</p>
 					<div className="text-md nd:text-xl flex gap-1 sm:gap-2 items-center">
-						<p>I help business owners</p>
-						<p className="px-2 font-light bg-yellow-800 rounded-xl text-amber-100 font-[family-name:var(--font-geist-mono)]">
-							thrive
-						</p>
+						<p>Customer Support / Virtual Assistant</p>
 					</div>
 				</div>
 				<div className="flex flex-col gap-6 pt-24" id="work">
@@ -197,12 +194,7 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							Versatile Virtual Assistant with 11 years of experience in
-							e-commerce, software, and customer service. Proficient in tools
-							like Shopify, HubSpot, and Salesforce, with expertise in virtual
-							assistance, customer support, and process improvement. Skilled at
-							managing operations, enhancing workflows, and delivering
-							exceptional support in dynamic environments.
+							Technologically-inclined professional with expertise in customer support and virtual assistance. Experienced in supporting mobile app users, e-commerce owners, and executives. Knowledgeable in customer support infrastructure and processes. Proficient in CRMs, Google Suite, and design tools. Possesses real-world experience in software engineering.
 						</p>
 					</div>
 				</div>
