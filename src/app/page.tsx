@@ -194,7 +194,12 @@ export default function Home() {
 					</p>
 					<div className="flex flex-col gap-4 font-light">
 						<p>
-							Technologically-inclined professional with expertise in customer support and virtual assistance. Experienced in supporting mobile app users, e-commerce owners, and executives. Knowledgeable in customer support infrastructure and processes. Proficient in CRMs, Google Suite, and design tools. Possesses real-world experience in software engineering.
+							Versatile Virtual Assistant with 11 years of experience within
+							e-commerce, software, and customer service. Proficient in tools
+							like Shopify, HubSpot, and Salesforce, with expertise in virtual
+							assistance, customer support, and process improvement. Skilled at
+							managing operations, enhancing workflows, and delivering
+							exceptional support in dynamic environments.{" "}
 						</p>
 					</div>
 				</div>
